@@ -66,4 +66,4 @@
 
 **Расчёты**
 
-[Файл с расчётами](https://github.com/romanolegov/Excel/raw/main/Extrapolation/extrapolation.xlsx).
+[Файл с расчётами](https://github.com/romanolegov/portfolio/raw/main/Excel/Extrapolation/extrapolation.xlsx).
