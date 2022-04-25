@@ -1,3 +1,0 @@
-city	airport count
-Ульяновск	2
-Москва	3
